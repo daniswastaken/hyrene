@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/daniswastaken/hyrene/main/media/banner.png)
+
 # Hyrene
 
 **Hyrene** is a bold, uppercase display typeface originally created while designing promotional visuals for the **[Bedrock Perfected](https://mcpedl.com/bedrock-perfected/)** project.
