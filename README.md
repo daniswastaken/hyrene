@@ -1,6 +1,6 @@
 # Hyrene
 
-**Hyrene** is a bold, uppercase display typeface originally created while designing promotional visuals for the *[Bedrock Perfected](https://mcpedl.com/bedrock-perfected/)* project.
+**Hyrene** is a bold, uppercase display typeface originally created while designing promotional visuals for the **[Bedrock Perfected](https://mcpedl.com/bedrock-perfected/)** project.
 
 It was born out of frustration.
 
